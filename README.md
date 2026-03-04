@@ -11,9 +11,4 @@
 - **Data Tools:** Power BI, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, (Learning...)
 - **Interests:** Data Visualization, Predictive Modeling, and Python Automation.
 
-### 📊 GitHub Activity
-![Jagdish's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAGGU-528&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAGGU-528&layout=compact&theme=radical)
-
----
 *“Connecting the dots between hardware, software, and data.”*
