@@ -1,14 +1,21 @@
-# Hi, I'm JAGDISH! 👋
+# Hi, I'm JAGDISH BIRADAR! 👋
 
 ### 👨‍💻 About Me
 - 🎓 **B.E. in Electronics & Communication Engineering** from PDA College of Engineering.
-- 🚀 Currently specializing in **Data Science** and **Machine Learning**.
-- 🛠️ Background in **Industrial Automation & IIOT** (Interned at GTTC).
-- 📍 Based in **Electronic City, Bengaluru**.
+- 🤖 Building end-to-end ML projects in Data Science and Machine Learning
+- 📍 Current Location **Bengaluru, Karnataka - 560064**
 
-### 🛠 Tech Stack
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-- **Data Tools:** Power BI, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, (Learning...)
-- **Interests:** Data Visualization, Predictive Modeling, and Python Automation.
+### Tech Stacks :
+Languages:     Python | SQL 
+ML/DS:         Scikit-Learn | Pandas | NumPy | Matplotlib | Seaborn | Plotly | Tensorflow | PyTorch |
+Deployment:    Flask API | Streamlit | Render | Streamlit Cloud |
+Tools:         VS Code | Git | GitHub | Power BI |
 
-*“Connecting the dots between hardware, software, and data.”*
+### Projects :
+🚀 Diabetes Prediction Web App
+   → End-to-end ML | Scikit-Learn Pipelines | Flask API | Deployed on Render
+   **link :** https://diabetes-prediction-pimu.onrender.com
+   
+🌍 Global Development Dashboard  
+   → Unsupervised ML | K-Means Clustering | Streamlit | Deployed on Streamlit Cloud
+   **link :** https://global-development-jpa3hswfotyh3mxnkocgfg.streamlit.app/
