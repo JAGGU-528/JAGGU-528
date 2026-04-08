@@ -79,15 +79,6 @@ I build end-to-end machine learning projects — from raw messy data to deployed
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAGGU-528&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGGU-528&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fjagdish--biradar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagdish-biradar)
