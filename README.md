@@ -79,6 +79,20 @@ I build end-to-end machine learning projects — from raw messy data to deployed
 
 ---
 
+
+| | |
+|---|---|
+| **ML** | XGBoost, Scikit-Learn, NLTK, TF-IDF, SMOTE |
+| **App** | Streamlit interactive dashboard |
+| **Deployment** | Streamlit Cloud |
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/JAGGU-528/NLP--Sentiment-Analysis)
+[![Live App](https://img.shields.io/badge/Live-App-FF4B4B?style=for-the-badge&logo=streamlit)](https://nlp--sentiment-analysis-by-jaggu528.streamlit.app/)
+
+---
+
+
+
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fjagdish--biradar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagdish-biradar)
