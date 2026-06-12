@@ -79,6 +79,9 @@ I build end-to-end machine learning projects — from raw messy data to deployed
 
 ---
 
+### NLP - Sentiment Analysis Web App
+> End-to-end Text Processig ML project — predicts sentiment of the customers based on their review for the product.
+
 
 | | |
 |---|---|
